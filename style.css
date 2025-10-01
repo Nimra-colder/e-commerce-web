@@ -1,0 +1,423 @@
+.head {
+    background-color: #023b6d;
+    color: white;
+
+}
+
+.btn {
+    background: #00a6eb;
+    color: white;
+}
+
+.header {
+    background-color: #005751;
+
+
+}
+
+.page {
+    background-color: #005751;
+}
+
+#navbarSupportedContent ul li a {
+    color: white;
+
+}
+
+.btn1 {
+    color: #005751;
+}
+
+.btn2 {
+    background-color: #005751;
+
+
+}
+
+.container .img img {
+    width: 95%;
+   
+    margin-top: 40%;
+    margin-right: 100px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+header .btn {
+    background-color: #005751;
+}
+
+
+
+.container .hero .content h1 {
+    font-size: 80px;
+}
+
+.container .hero .content p {
+    font-size: 30px;
+    margin-top: 50px;
+}
+
+.hero-btn .btn1 {
+    font-size: 20px;
+    border: 2px solid white;
+    border-radius: 15px;
+    margin: auto;
+    width: 300px;
+
+}
+.container.pt-5.d-flex div{
+    flex: 1;
+}
+
+.container .data div{
+    flex: 1;
+}
+
+.container .biodata {
+    flex: 1;
+}
+
+.hero-btn .btn2 {
+    font-size: 20px;
+    border-radius: 15px;
+    border: 2px solid white;
+    margin: auto;
+    width: 300px;
+}
+.container .learn-btn{
+    display: flex;
+    justify-content: center;
+
+
+}
+.container .right {
+    font-size: 25px;
+
+}
+
+.container .left img {
+
+    width: 100%;
+   
+    margin-top: 30%;
+
+}
+
+
+.box .container .right .box2 .business .button {
+    background-color: #005751;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.box .container .process .btn1 {
+    margin-top: 700px;
+    border-radius: 200px;
+    padding: 20px;
+    font-size: large;
+    font-weight: 100;
+}
+
+.box .container .data .left1 {
+    font-size: 30px;
+}
+
+.box .container .data .left1 .start {
+    background-color: #005751;
+    border-radius: 5px;
+}
+
+.box .container .data .left1 .learn {
+    color: #005751;
+    border-radius: 10px;
+    border: 2px solid #005751;
+}
+
+.box .container .btn-2 {
+    border-radius: 200px;
+
+}
+
+button {
+    border-radius: 100px;
+    color: #005751;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.card-body .container .card .more {
+    border-radius: none;
+}
+
+.card-body .container .card img {
+    width: 100px;
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+
+.card-body .container .cards {
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 200px;
+}
+
+.new-box {
+    margin-top: 30px;
+    background-color: #f1f8f7;
+  
+}
+
+.new-box .container .main-hd .btn-consultation {
+
+    text-align: center;
+    background: color-mix(in srgb, var(--accent-color) #018880, transparent 90%);
+}
+
+.new-box .container .biodata .ready {
+
+    font-size: 30px;
+
+}
+
+.new-box .container .main-hd {
+    color: #005751;
+   flex-direction: column;
+  
+    
+}
+
+.new-box .container .top-hd{
+    text-align: center;
+}
+
+.new-box .container .biodata {
+    
+    border: 8px solid #005751;
+}
+
+.new-box .container .biodata .ready .project {
+    color: #005751;
+}
+
+.new-box .container .biodata {
+    padding: 40px;
+}
+
+.new-box .container .biodata .free {
+   
+    background-color: #f1f8f7;
+    width: 200%;
+}
+
+.container .right-img img {
+    
+     width: 100%; 
+   
+}
+
+.container .top {
+    font-size: 25px;
+}
+
+.container .rate .star img {
+    width: 10%;
+}
+
+.color {
+    background-color: #f1f8f7;
+}
+
+.container .rate .star .card .card-body .photo img {
+    width: 100px;
+    border-radius: 30px;
+    margin-right: 70%;
+}
+
+.container .rate .star .card .card-body .photo .size {
+    margin-left: 20%;
+
+}
+
+.container .card3 .card-body2 {
+    border: 8px solid #005751;
+    height: 100%;
+
+
+}
+
+
+.container .col-sm-6 .card .card-body .card-title {
+    color: #005751;
+}
+
+.container .all .right-side .card-img-top {
+    color: #005751;
+
+}
+
+.container .all .left-side .row .col-sm-6 {
+    width: 90%;
+}
+
+.container .all .right-side .card {
+
+    background-color: #f1f8f7;
+
+}
+
+.container .all .right-side .card .contact-btn .btn {
+    margin-left: 30%;
+    background-color: #005751;
+}
+.container .marge {
+    flex: 1;
+}
+
+footer{
+    background-color: #f1f8f7;
+}
+
+footer .container .foot .follow img {
+    width: 10%;
+    margin-left: 12px;
+    margin-top: 15px;
+    background-color: #f1f8f7;
+    
+}
+
+.container .left1{
+    font-size: 30px;
+}
+
+
+.foot div{
+    flex: 1;
+}
+
+@media (max-width: 768px) {
+
+    .container {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        margin-top: 0;
+
+    }
+
+    .container .hero .content h1 {
+        font-size: 35px;
+    }
+
+    .container .hero .content p {
+        font-size: 20px;
+    }
+
+    .hero-btn.d-flex{
+        flex-direction: column;
+    }
+
+    .container .data .left1 p{
+        font-size: 20px;
+
+    }
+    .container .data .right1 p{
+        font-size: 20px;
+    }
+    .new-box {
+      
+       display: flex;
+       
+    }
+    .container .marge{
+        display: flex;
+        flex-direction: column;
+      justify-content: center;
+        
+    }
+
+    .container .marge .right-img{
+        width: 300px;
+    } 
+
+    .container .marge .top p{
+        font-size: 15px;
+
+    }
+
+    .container .center .card3{
+       
+        justify-content: center;
+        flex-direction: column;
+        
+    }
+    
+    .container .all{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+
+    }
+  footer .container .foot{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  section.new-box{
+    width: 100%;
+  }
+  .biodata.d-flex.bg-white p{
+    font-size: 25px;
+    padding: 20px;
+
+  }
+
+ .new-box .container .biodata{
+    display: flex;
+    justify-content: center;
+    flex-direction: column; 
+}
+
+.new-box .container .biodata .free{
+    width: 110%;
+    margin: auto;
+    margin-left: -20px;
+    margin-top: 25px;
+}
+
+.new-box .container .biodata .ready .project{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+   
+}
+footer .container .foot .follow .img{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+.color .container .rate .star{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.container .all .right-side .card{
+    width: 100%;
+}
+}
+ @media (min-width: 768px){
+    
+.container .all .right-side{
+    width: 30%;
+}
+.container .all .left-side{
+    width: 50%;
+}
+    
+ }
